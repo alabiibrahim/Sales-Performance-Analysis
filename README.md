@@ -3,6 +3,7 @@
 # Table of contents 
 
 - [Objective](#objective)
+- [Questions to answer](#Questionstoanswer)
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Stages](#stages)
@@ -15,6 +16,28 @@
   
 # Objective
 To analyze and visualize key sales performance metrics, identify top-selling products, highlight monthly sales trends, and uncover opportunities for growth. This analysis helps stakeholders make data-driven decisions by providing clear insights into sales, profit, customer segments, and shipping methods.
+
+# Questions-Answer
+
+1.  What is our total sales and profit over the selected period?
+
+2.  Which months have the highest and lowest sales performance?
+
+3.  What are our most and least profitable product sub-categories?
+
+4.  How do product categories (Technology, Furniture, Office Supplies) compare in sales?
+
+5.  What trends can we see in monthly sales and order quantities?
+
+6.  Which customer segment contributes the most to our revenue?
+
+7.  What shipment mode is most commonly used, and how does it relate to sales performance?
+
+8.  How have sales changed year over year — is there consistent growth?
+
+9.  Are there seasonal patterns or specific months we should focus on for marketing and inventory planning?
+
+10. Where should we focus our efforts to improve profit margins and overall performance?
 
 # Data Source
 
