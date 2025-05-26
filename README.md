@@ -41,7 +41,7 @@ To analyze and visualize key sales performance metrics, identify top-selling pro
 
 # Data Source
 
-![Datasets](assets/datasets/superstore20%sales20%data2=%sets)
+![Datasets](assets/datasets/superstore-sales-dataset-2.xlsx)
 
 # Tools
 Excel Spreadsheet
@@ -54,13 +54,27 @@ Data cleaning & Processing
 - Average imputation of blank cells
 
 # Dashboard Design
+
 - Line chart
+![Visuals](assets/images/001)
+
 - Lollipop chart
+![Visuals](assets/images/002)
+
 - Tree map
+![Visuals](assets/images/003)
+
 - Donut chart
+![Visuals](assets/images/004)
+
 - KPI cards
+![Visuals](assets/images/005)
+
 - Area chart
+![Visuals](assets/images/006)
+
 - Column & Bar charts
+![Visuals](assets/images/008)
 
 # Insights 
 
