@@ -1,6 +1,6 @@
 # Excel: Sales Performance Analysis
 
-![Dashboardmockup](assets/datasets/SalesPerformanceGIF.gif)
+![Dashboardmockup](assets/datasets/salesperformanceGIF.gif)
 
 # Table of contents 
 
@@ -46,14 +46,17 @@ To analyze and visualize key sales performance metrics, identify top-selling pro
 ![Dataset](main/assets/datasets/superstore-sales-dataset-2.xlsx)
 
 # Tools
+
 Excel Spreadsheet
 
 # Stages
+
 Data cleaning & Processing
 - Functions and Formulas
 - Pivot tables
 - Removing duplicates
 - Average imputation of blank cells
+
 
 # Dashboard Design
 
@@ -81,6 +84,12 @@ Data cleaning & Processing
 - Bar charts
 ![Visuals](assets/images/006.PNG)
 
+
+# Visualization
+
+![Visuals](assets/images/salesperformanceGIF.gif)
+
+
 # Insights 
 
 1.	Total Sales of £2,297.2k, Total Profit of £286.4k and Profit Margin of 12.47%.
@@ -96,6 +105,7 @@ Data cleaning & Processing
 6.	Consumer segment accounts for 40% of sales, Corporate 35%, and Home Office 25%. Standard Class shipping makes up 50% of orders.
     
 7.	Overall margin sits at 12.5%, but it likely varies by category. 
+
 
 # Recommendations
 
