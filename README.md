@@ -1,5 +1,7 @@
 # Excel: Sales Performance Analysis
 
+![Dashboardmockup](assets/datasets/SalesPerformanceGIF.gif)
+
 # Table of contents 
 
 - [Objective](#objective)
@@ -56,25 +58,28 @@ Data cleaning & Processing
 # Dashboard Design
 
 - Line chart
-![Visuals](assets/images/001)
+![Visuals](assets/images/001.PNG)
 
 - Lollipop chart
-![Visuals](assets/images/002)
+![Visuals](assets/images/008.PNG)
 
 - Tree map
-![Visuals](assets/images/003)
+![Visuals](assets/images/003.PNG)
 
 - Donut chart
-![Visuals](assets/images/004)
+![Visuals](assets/images/002.PNG)
 
 - KPI cards
-![Visuals](assets/images/005)
+![Visuals](assets/images/009.PNG)
 
 - Area chart
-![Visuals](assets/images/006)
+![Visuals](assets/images/005.PNG)
 
-- Column & Bar charts
-![Visuals](assets/images/008)
+- Column 
+![Visuals](assets/images/004.PNG)
+
+- Bar charts
+![Visuals](assets/images/006.PNG)
 
 # Insights 
 
