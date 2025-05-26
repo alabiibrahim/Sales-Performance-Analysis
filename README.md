@@ -43,7 +43,7 @@ To analyze and visualize key sales performance metrics, identify top-selling pro
 
 # Data Source
 
-![Datasets](assets/datasets/superstore-sales-dataset-2.xlsx)
+![Dataset](main/assets/datasets/superstore-sales-dataset-2.xlsx)
 
 # Tools
 Excel Spreadsheet
