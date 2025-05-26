@@ -43,7 +43,7 @@ To analyze and visualize key sales performance metrics, identify top-selling pro
 
 # Data Source
 
-![Dataset](assets/dataset/superstore-sales-dataset-2.xlsx)
+![dataset](assets/datasets/superstore-sales-dataset-2.xlsx)
 
 # Tools
 
@@ -68,9 +68,11 @@ Data cleaning & Processing
   
 - ![Visuals](assets/images/001.PNG)
 
+
 - Lollipop chart
 
 ![Visuals](assets/images/008.PNG)
+
 
 
 - Tree map
@@ -78,9 +80,11 @@ Data cleaning & Processing
 ![Visuals](assets/images/003.PNG)
 
 
+
 - Donut chart
 
 ![Visuals](assets/images/002.PNG)
+
 
 
 - KPI cards
@@ -88,14 +92,17 @@ Data cleaning & Processing
 ![Visuals](assets/images/009.PNG)
 
 
+
 - Area chart
 
 ![Visuals](assets/images/005.PNG)
 
 
+
 - Column 
 
 ![Visuals](assets/images/004.PNG)
+
 
 
 - Bar charts
