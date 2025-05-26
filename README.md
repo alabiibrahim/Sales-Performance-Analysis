@@ -1,6 +1,6 @@
 # Excel: Sales Performance Analysis
 
-![Dashboardmockup](assets/datasets/salesperformanceGIF.gif)
+![Visuals](assets/images/salesperformanceGIF.gif)
 
 # Table of contents 
 
@@ -87,7 +87,7 @@ Data cleaning & Processing
 
 # Visualization
 
-![Visuals](assets/images/salesperformanceGIF.gif)
+![Visuals](assets/images/SalesPerformance.PNG)
 
 
 # Insights 
