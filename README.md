@@ -17,9 +17,10 @@
 - [Recommendations](#recommendations)
   
 # Objective
+
 To analyze and visualize key sales performance metrics, identify top-selling products, highlight monthly sales trends, and uncover opportunities for growth. This analysis helps stakeholders make data-driven decisions by providing clear insights into sales, profit, customer segments, and shipping methods.
 
-# Questions-Answer
+# Questions to Answer
 
 1.  What is our total sales and profit over the selected period?
 
