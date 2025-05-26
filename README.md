@@ -66,12 +66,14 @@ Data cleaning & Processing
 
 - Line chart
   
-- ![Visuals](assets/images/001.PNG)
+![Visuals](assets/images/001.PNG)
+
 
 
 - Lollipop chart
 
 ![Visuals](assets/images/008.PNG)
+
 
 
 
@@ -81,9 +83,11 @@ Data cleaning & Processing
 
 
 
+
 - Donut chart
 
 ![Visuals](assets/images/002.PNG)
+
 
 
 
@@ -93,15 +97,18 @@ Data cleaning & Processing
 
 
 
+
 - Area chart
 
 ![Visuals](assets/images/005.PNG)
 
 
 
+
 - Column 
 
 ![Visuals](assets/images/004.PNG)
+
 
 
 
