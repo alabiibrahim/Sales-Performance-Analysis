@@ -60,8 +60,7 @@ Data cleaning & Processing
 
 # Dashboard Design
 
-- Line chart
-![Visuals](assets/images/001.PNG)
+- Line chart ![Visuals](assets/images/001.PNG)
 
 - Lollipop chart
 ![Visuals](assets/images/008.PNG)
@@ -109,7 +108,7 @@ Data cleaning & Processing
 
 # Recommendations
 
-1.	Double-down on your best-sellers.
+1.	Double-down on the best-sellers.
    
 2.	Improve underperforming lines.
    
